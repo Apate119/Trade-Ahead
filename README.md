@@ -26,6 +26,7 @@ Cluster 3: Encompassed 25 companies with high stock prices and moderate volatili
 Hierarchical Clustering Results
 
 Ward Linkage Method: Utilizing the Ward linkage method with Euclidean distance, four clusters were identified:
+
 Cluster 0: 29 companies with low stock prices and high volatility, experiencing an 11% average price drop. These companies had low cash ratios and negative net incomes, high P/E ratios, and low outstanding shares.
 
 Cluster 1: 15 companies with high stock prices and moderate volatility, witnessing a 10.5% average price rise. They exhibited high cash ratios and low positive net incomes, high P/E ratios, and low outstanding shares.
