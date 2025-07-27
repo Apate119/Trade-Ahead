@@ -12,6 +12,7 @@ Trade&Ahead is a financial consultancy firm who provide their customers with per
 
 
 Results and Findings
+
 K-Means Clustering Results
 
 Cluster 0: Consisted of 277 companies with moderate stock prices and low volatility, experiencing an average 5% price increase. These companies had low cash ratios and net incomes, along with low P/E ratios and outstanding shares.
