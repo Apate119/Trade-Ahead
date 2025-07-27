@@ -27,12 +27,19 @@ Hierarchical Clustering Results
 
 Ward Linkage Method: Utilizing the Ward linkage method with Euclidean distance, four clusters were identified:
 Cluster 0: 29 companies with low stock prices and high volatility, experiencing an 11% average price drop. These companies had low cash ratios and negative net incomes, high P/E ratios, and low outstanding shares.
+
 Cluster 1: 15 companies with high stock prices and moderate volatility, witnessing a 10.5% average price rise. They exhibited high cash ratios and low positive net incomes, high P/E ratios, and low outstanding shares.
+
 Cluster 2: 11 companies characterized by low stock prices and low volatility, with a 6% average price drop. These companies had moderate cash ratios and high positive net incomes, low P/E ratios, and high outstanding shares.
+
 Cluster 3: 285 companies with moderate stock prices and low volatility, experiencing a 5% average price rise. They had moderate cash ratios and positive net incomes, moderate P/E ratios, and low outstanding shares.
+
 Key Takeaways:
 
 Diversification Strategy: Investors can use these clusters to build diversified portfolios by selecting stocks from different clusters, thereby minimizing risk and maximizing potential returns.
+
 Risk Assessment: Clusters with high volatility and negative financial indicators (e.g., Cluster 2) may indicate higher risk investments, suitable for risk-tolerant investors seeking potential high returns.
+
 Stable Investments: Clusters with low volatility and positive financial indicators (e.g., Cluster 1) may represent stable investment opportunities, appealing to conservative investors seeking steady growth.
+
 Sector Analysis: Further analysis of the sectors represented within each cluster can provide insights into industry-specific trends and opportunities.
